@@ -13,7 +13,6 @@ The purpose of this project is to create a chatbot that can interact with users 
 - Language Models: The project incorporates OpenAI and Hugging Face models for natural language understanding and generation, enabling the chatbot to engage in meaningful conversations.
 - PDF Text Extraction: The PDF documents are processed to extract the text content, which is used for indexing and retrieval.
 - Text Chunking: The extracted text is split into smaller chunks to improve the efficiency of retrieval and provide more precise answers.
-- Answer Source Identification: The chatbot displays the source PDF from which the answer was retrieved, allowing users to verify the information and access the original document if needed.
 
 ## Installation
 
