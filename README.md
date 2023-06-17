@@ -50,6 +50,8 @@ Run the App
 ## Sample Output
 
 ![Chat Screenhot 1](https://github.com/Abdullahw72/langchain-chatbot-multiple-PDF/blob/master/Chat_Result.png?raw=true)
+
+
 ![Chat Screenhot 1](https://github.com/Abdullahw72/langchain-chatbot-multiple-PDF/blob/master/Chat_Result-2.png?raw=true)
 
 
