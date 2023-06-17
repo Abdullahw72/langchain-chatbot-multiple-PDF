@@ -1,4 +1,4 @@
-# Langchain Chatbot
+# Langchain Chatbot for Multiple PDFs
 
 Langchain Chatbot is a conversational chatbot powered by OpenAI and Hugging Face models. It is designed to provide a seamless chat interface for querying information from multiple PDF documents. The chatbot utilizes the capabilities of language models and embeddings to perform conversational retrieval, enabling users to ask questions and receive relevant answers from the PDF content.
 
@@ -47,6 +47,12 @@ Run the App
 -  Upload PDF documents: Use the sidebar in the application to upload one or more PDF files.
 -  Ask questions: In the main chat interface, enter your questions related to the content of the uploaded PDFs.
 -  Receive answers: The chatbot will generate responses based on the information extracted from the PDFs.
+
+## Sample Output
+
+![Chat Screenhot 1](https://github.com/Abdullahw72/langchain-chatbot-multiple-PDF/blob/master/Chat_Result.png?raw=true)
+![Chat Screenhot 1](https://github.com/Abdullahw72/langchain-chatbot-multiple-PDF/blob/master/Chat_Result-2.png?raw=true)
+
 
 ## Future Enhancements
 
