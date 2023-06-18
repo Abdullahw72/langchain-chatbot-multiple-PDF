@@ -62,6 +62,9 @@ streamlit run app.py
 - Improved error handling and user feedback.
 - Enhanced user interface and customization options.
 
+## Blog
+Check out my detailed blog on this project here: https://medium.com/@abdullahw72/langchain-chatbot-for-multiple-pdfs-harnessing-gpt-and-free-huggingface-llm-alternatives-9a106c239975
+
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or bug fixes, please submit a pull request or open an issue in the GitHub repository.
