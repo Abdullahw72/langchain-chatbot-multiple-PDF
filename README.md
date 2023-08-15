@@ -36,6 +36,11 @@ Install the dependencies using requirements.txt
 pip install -r /requirements.txt
 ```
 
+Add your OpenAI Key by creating a .env file in the folder and add the following within it:
+```
+OPENAI_API_KEY="<your key>"
+```
+
 Run the App
 ```bash
 streamlit run app.py
