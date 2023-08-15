@@ -61,7 +61,7 @@ streamlit run app.py
 
 
 ## Future Enhancements
-
+- Integrate Vector Database for storing embeddings. (Reach out to me if you need to get this done).
 - Support for additional document formats, such as Word documents or web pages.
 - Integration of more advanced language models and embeddings.
 - Improved error handling and user feedback.
