@@ -33,7 +33,7 @@ python<version> -m venv <virtual-environment-name>
 Install the dependencies using requirements.txt
 
 ```bash
-pip install -r /requirements.txt
+pip install -r requirements.txt
 ```
 
 Add your OpenAI Key by creating a .env file in the folder and add the following within it:
